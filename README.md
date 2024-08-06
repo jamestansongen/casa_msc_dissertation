@@ -1,3 +1,7 @@
+Overview
+---
+This repository is part of my MSc Urban Spatial Science Dissertation for AY23/24. The overall workflow involves generating a study area in Blender, running the agent-based model (ABM) in Unity and carry out the analysis in Python.
+
 Part 1: Blender - Create Study Area
 ---
 - Download Blender and install [Blosm](https://prochitecture.gumroad.com/l/blender-osm) plugin.<br/>
