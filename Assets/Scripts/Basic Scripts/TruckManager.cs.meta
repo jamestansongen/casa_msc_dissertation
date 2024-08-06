@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 54e866bcd5abbeb4aac4a94ccff8b2bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - truckPrefab: {fileID: 966111716115296413, guid: b81816137de561e4496bc8f9e8f199d4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
