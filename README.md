@@ -8,7 +8,8 @@ Part 1: Blender - Create Study Area
 **Part 2: Unity - Run Simulation**
 ---
 The following are the list of prefabs/gameobjects and their settings.
-- Cube: Ensure Tag is "RedBox", Layer is "RedBox", Box Collider is attached.
+- Cube:
+-- Ensure Tag is "RedBox", Layer is "RedBox", Box Collider is attached.
 - Delivery Vehicle: Ensure Layer is "Truck", Mesh Collider and TruckDroneDeployment_Simulation (Script) is attached.
 - Drone: Ensure Layer is "Drone", Box Collider, Rigidbody and DroneMovement_Simulation (Script) is attached.
 - TruckManager: Gameobject with TruckManager_Simulation (Script) attached.
